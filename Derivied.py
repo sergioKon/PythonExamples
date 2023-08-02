@@ -8,11 +8,11 @@ class Student:
 
     # instance method
     def show(self):
-        print('Name:', self.name, 'Age:', self.age)
+        print('Name:', self.name, ' Age: ', self.age)
 
 # create new method
 def welcome(self):
-    print("Hello", self.name, "Welcome to Class IX")
+    print(" Hello ", self.name, "Welcome to Class IX")
 
 
 # create object

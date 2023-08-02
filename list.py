@@ -1,4 +1,4 @@
-myList=[1,2,3]
+myList=[1,2,3,4]
 for idx, item in enumerate(myList):
     myList[idx] =item*10
     
@@ -14,7 +14,7 @@ list5=[1,2,3, ['a','b']]
 import sys
 print(list5[3][0], sys.version)
 
-print('999999999999999')
+print('111111111111111111')
 companies = ['Microsoft', 'Google', 'Apple']
 if (n := len(companies)) == 1 and (first_company := companies[0]):
     print(f'We have only one company: {first_company}')
